@@ -1,0 +1,3 @@
+[submodule "tes2"]
+	path = tes2
+	url = https://github.com/okakrisna/tes2.git
